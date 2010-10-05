@@ -4,7 +4,7 @@ This is a W3C-DOM XML Library for NodeJS with XPath and namespaces. It is implem
 This project is used in production in many NodeJS based backend projects for Ajax.org and updated frequently. 
 
 To use this library add the node-o3-xml/lib directory to your require path, and require ('o3-xml');
-Or alternatively require('node-o3-xml/lib/o3-xml'); This returns the normal XML parser object as we know from webbrowsers. This repository is a generated build for node 0.2.2 stable, from the o3 repository (http://github.com/ajaxorg/o3)
+Or alternatively require('/full/path/node-o3-xml/lib/o3-xml'); This returns the normal XML parser object as we know from webbrowsers. This repository is a generated build for node 0.2.2 stable, from the o3 repository (http://github.com/ajaxorg/o3)
 
 Binaries included for:
 
