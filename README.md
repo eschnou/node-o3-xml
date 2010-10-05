@@ -2,6 +2,7 @@
 
 This is a W3C-DOM XML Library for NodeJS with XPath and namespaces. It is implemented using the C based LibXML2 and the Ajax.org O3 component system. This is the only W3C-DOM standards based XML api for NodeJS we are aware of so your code should work in both the browser and nodejs.
 This project is used in production in many NodeJS based backend projects for Ajax.org and updated frequently. 
+You can also try out the more alpha-level node-o3-fastxml library if you need more speed, less memory usage, and dont care about namespaces.
 
 To use this library add the node-o3-xml/lib directory to your require path, and require ('o3-xml');
 Or alternatively require('/full/path/node-o3-xml/lib/o3-xml'); This returns the normal XML parser object as we know from webbrowsers. This repository is a generated build for node 0.2.2 stable, from the o3 repository (http://github.com/ajaxorg/o3)
