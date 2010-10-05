@@ -23,7 +23,7 @@ Binaries included for:
  * osx64
 
 Other platforms and bit-ness (32/64) will be added to the automated build VM incrementally.
-If you need to build this node-o3-xml module yourself or want to contribute to the source, please look at the main o3 repository.
+If you need to build this node-o3-xml module yourself or want to contribute to the source, please look at the main [ajaxorg/o3](http://github.com/ajaxorg/o3) repository.
 
 If you are looking for the accompanying binary builds of NodeJS check out the 
 [ajaxorg/node-builds](http://github.com/ajaxorg/node-builds) repository
