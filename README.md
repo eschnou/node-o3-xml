@@ -14,7 +14,7 @@ Or alternatively:
 
     var parser = require('/full/path/node-o3-xml/lib/o3-xml'); 
 
-This returns the normal XML parser object as we know from webbrowsers. This repository is a generated build for node 0.2.2 stable, from the o3 repository [http://github.com/ajaxorg/o3]
+This returns the normal XML parser object as we know from webbrowsers. This repository is a generated build for node 0.2.2 stable, from the o3 repository [ajaxorg/o3](http://github.com/ajaxorg/o3).
 
 Binaries included for:
 
@@ -26,4 +26,4 @@ Other platforms and bit-ness (32/64) will be added to the automated build VM inc
 If you need to build this node-o3-xml module yourself or want to contribute to the source, please look at the main o3 repository.
 
 If you are looking for the accompanying binary builds of NodeJS check out the 
-[http://github.com/ajaxorg/node-builds] repository
+[ajaxorg/node-builds](http://github.com/ajaxorg/node-builds) repository
