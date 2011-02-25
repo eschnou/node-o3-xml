@@ -1,7 +1,3 @@
-# A word on this fork
-
-The only purpose of this fork is to add a package.json descriptor such that this module can be bundled to my other applications with npm.
-
 # node-o3-xml
 
 This is a W3C-DOM XML Library for NodeJS with XPath and namespaces. It is implemented using the C based LibXML2 and the Ajax.org O3 component system. This is the only W3C-DOM standards based XML api for NodeJS we are aware of so your code should work in both the browser and nodejs.
